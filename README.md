@@ -1,4 +1,4 @@
-### Dynamic programming solution to the following problem
+## Dynamic programming solution to the following problem
 
 You are an aspiring fighter, planning to hone your skills in the famous Dynamic Arena. This arena does not maintain a consistent structure. Instead, the arena’s floors rise and fall dynamically throughout the day, making the climb more unpredictable and dangerous.
 You want to strategically plan your fighting episodes. An Episode is a sequence of two actions: arena entry then winning in combat. You can engage in multiple fighting episodes, but you cannot engage in more than one combat in the same episode. In other words, once you fight in combat, you need to start a new episode of entry then combat. However, there is a catch, you cannot engage in two episodes consecutively, you need to wait for at least one arena movement to pass. Given that you have been training really well, you know that once you chose to fight, you will win.
